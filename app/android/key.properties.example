@@ -1,0 +1,5 @@
+# Copie para key.properties e preencha. NUNCA commite o key.properties real.
+storeFile=CAMINHO\\ABSOLUTO\\PARA\\sua-chave.jks
+storePassword=SENHA_DA_STORE
+keyAlias=SEU_ALIAS
+keyPassword=SENHA_DA_KEY

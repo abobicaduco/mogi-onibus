@@ -1,0 +1,24 @@
+# Segredos — NUNCA commitar
+app/android/key.properties
+*.jks
+*.keystore
+
+# Flutter / Dart
+app/.dart_tool/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/build/
+app/.gradle/
+app/android/.gradle/
+app/android/app/debug/
+app/android/app/profile/
+app/android/app/release/
+app/android/local.properties
+app/ios/
+**/Flutter/ephemeral/
+.idea/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
